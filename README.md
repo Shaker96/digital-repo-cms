@@ -1,9 +1,19 @@
-# Sanity Clean Content Studio
+# Sanity CMS Digital Repository - Schema
 
-Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
+Welcome to the Sanity CMS Digital Repository project! This repository contains the Sanity schema definition for a digital repository website.
 
-Now you can do the following things:
+## Overview
 
-- [Read “getting started” in the docs](https://www.sanity.io/docs/introduction/getting-started?utm_source=readme)
-- [Join the community Slack](https://slack.sanity.io/?utm_source=readme)
-- [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
+The Sanity CMS Digital Repository Schema defines the structure and organization of content within the Sanity CMS. It specifies the types, fields, and relationships necessary to manage digital assets efficiently.
+
+## Features
+
+- **Structured Content**: Define structured content types for different types of digital assets such as link, documents, videos, etc.
+- **Custom Fields**: Add custom fields to capture metadata and other relevant information for each digital asset.
+- **Relationships**: Establish relationships between different content types for easy navigation and management.
+- **Validation Rules**: Define validation rules to ensure data integrity and consistency.
+- **Localization**: Support multiple languages and locales for internationalization purposes.
+
+## Technologies Used
+
+- **Sanity CMS**: A headless CMS that provides a flexible and intuitive content editing experience.
